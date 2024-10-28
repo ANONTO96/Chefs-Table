@@ -5,8 +5,8 @@
         "recipe_image": "https://i.ibb.co.com/wQNH9mq/premium-photo-1691948106030-d5e76d461b14.jpg",
         "short_description": "A classic Italian pasta dish made with eggs, cheese, pancetta, and pepper.",
         "ingredients": ["200 g spaghetti", "100 g pancetta", "2 large eggs", "50 g parmesan cheese", "2 cloves garlic", "Salt and pepper"],
-        "preparing_time": "20 min",
-        "calories": "400 calories"
+        "preparing_time": "20",
+        "calories": "400"
     },
     {
         "recipe_id": 2,
@@ -14,8 +14,8 @@
         "recipe_image": "https://i.ibb.co.com/WyT9Kvg/photo-1574926054530-540288c8e678.jpg",
         "short_description": "A fresh and healthy salad with grilled chicken, romaine lettuce, and Caesar dressing.",
         "ingredients": ["300 g chicken breast", "100 g romaine lettuce", "50 g parmesan cheese", "50 ml Caesar dressing", "100 g croutons"],
-        "preparing_time": "15 min",
-        "calories": "350 calories"
+        "preparing_time": "15",
+        "calories": "350"
     },
     {
         "recipe_id": 3,
@@ -23,8 +23,8 @@
         "recipe_image": "https://i.ibb.co.com/q9HST7s/premium-photo-1723032016322-6ac8616b2f39.jpg",
         "short_description": "A quick and easy stir-fry with mixed vegetables and a savory sauce.",
         "ingredients": ["200 g broccoli", "150 g bell peppers", "100 g carrots", "100 g mushrooms", "50 ml soy sauce", "1 tbsp olive oil"],
-        "preparing_time": "25 min",
-        "calories": "200 calories"
+        "preparing_time": "25",
+        "calories": "200"
     },
     {
         "recipe_id": 4,
@@ -32,8 +32,8 @@
         "recipe_image": "https://i.ibb.co.com/8YnS6rJ/premium-photo-1661730314652-911662c0d86e.jpg",
         "short_description": "Mexican-style tacos filled with seasoned beef, lettuce, cheese, and salsa.",
         "ingredients": ["300 g ground beef", "100 g cheddar cheese", "6 taco shells", "50 g lettuce", "50 g salsa", "1 tsp taco seasoning"],
-        "preparing_time": "20 min",
-        "calories": "450 calories"
+        "preparing_time": "20",
+        "calories": "450"
     },
     {
         "recipe_id": 5,
@@ -41,8 +41,8 @@
         "recipe_image": "https://i.ibb.co.com/cNL87JZ/photo-1664309641932-0e03e0771b97.jpg",
         "short_description": "A simple yet delicious pizza topped with tomato, mozzarella, and basil.",
         "ingredients": ["1 pizza dough", "200 g tomato sauce", "150 g mozzarella cheese", "Fresh basil leaves", "Olive oil", "Salt"],
-        "preparing_time": "15 min (plus baking time)",
-        "calories": "300 calories per slice"
+        "preparing_time": "15",
+        "calories": "300"
     },
     {
         "recipe_id": 6,
@@ -50,8 +50,8 @@
         "recipe_image": "https://i.ibb.co.com/4V6q8DP/photo-1610057099431-d73a1c9d2f2f.jpg",
         "short_description": "A flavorful Indian curry with marinated chicken in a spiced tomato cream sauce.",
         "ingredients": ["500 g chicken breast", "200 ml yogurt", "2 tbsp tikka masala paste", "1 onion", "200 ml tomato puree", "100 ml cream"],
-        "preparing_time": "40 min",
-        "calories": "500 calories"
+        "preparing_time": "40",
+        "calories": "500"
     },
     {
         "recipe_id": 7,
@@ -59,8 +59,8 @@
         "recipe_image": "https://i.ibb.co.com/w0DXQsc/premium-photo-1676106623583-e68dd66683e3.jpg",
         "short_description": "A healthy and delicious toast topped with mashed avocado and seasoning.",
         "ingredients": ["2 slices of bread", "1 ripe avocado", "Salt", "Pepper", "Red chili flakes", "Lemon juice"],
-        "preparing_time": "10 min",
-        "calories": "250 calories"
+        "preparing_time": "10",
+        "calories": "250"
     },
     {
         "recipe_id": 8,
@@ -68,7 +68,7 @@
         "recipe_image": "https://i.ibb.co.com/WfRNWhr/photo-1549396563-92fab230895a.jpg",
         "short_description": "A rich and hearty soup made with caramelized onions and beef broth, topped with cheese.",
         "ingredients": ["500 g onions", "1 liter beef broth", "50 g butter", "100 g Gruyere cheese", "1 baguette", "Salt and pepper"],
-        "preparing_time": "50 min",
-        "calories": "300 calories"
+        "preparing_time": "50",
+        "calories": "300"
     }
 ]
