@@ -1,12 +1,16 @@
 import './App.css'
+import Banner from './Components/Banner/Banner'
+import Navbar from './Components/Navbar/Navbar'
 
 function App() {
   
 
   return (
     <>
-     
-      <h1>web under construction</h1>
+     {/* header */}
+     <Navbar></Navbar>
+     {/* banner */}
+     <Banner></Banner>
       
     </>
   )
