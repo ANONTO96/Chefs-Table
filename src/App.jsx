@@ -1,6 +1,7 @@
 import './App.css'
 import Banner from './Components/Banner/Banner'
 import Navbar from './Components/Navbar/Navbar'
+import Title from './Components/Title/Title'
 
 function App() {
   
@@ -10,7 +11,11 @@ function App() {
      {/* header */}
      <Navbar></Navbar>
      {/* banner */}
-     <Banner></Banner>
+    <div className='my-5'>
+    <Banner></Banner>
+    </div>
+     {/* title */}
+     <Title></Title>
       
     </>
   )
